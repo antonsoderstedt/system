@@ -1,0 +1,14 @@
+﻿@model SystemetSida.ViewModels.ViewModel
+
+    @foreach (var b in Model.Beverages) { 
+        <div>
+            <ul>
+                <li>@b.name</li>
+                <li>@b.price</li>
+                <li>@b.country</li>
+            </ul>
+            
+        </div>
+    }
+
+

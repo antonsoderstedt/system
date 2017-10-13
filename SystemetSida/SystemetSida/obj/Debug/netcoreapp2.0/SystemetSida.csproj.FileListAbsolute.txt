@@ -1,0 +1,13 @@
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.deps.json
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.runtimeconfig.json
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.runtimeconfig.dev.json
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.dll
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.pdb
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.csprojResolveAssemblyReference.cache
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.csproj.CoreCompileInputs.cache
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.AssemblyInfoInputs.cache
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.AssemblyInfo.cs
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.dll
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.pdb
+C:\src\Kraken\SystemetSida\SystemetSida\bin\Debug\netcoreapp2.0\SystemetSida.dll.config
+C:\src\Kraken\SystemetSida\SystemetSida\obj\Debug\netcoreapp2.0\SystemetSida.csproj.SystemetSida.dll.config
